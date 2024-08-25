@@ -15,6 +15,8 @@ const NewUser = () => {
         <div>
             <h1>New User</h1>
             <button onClick={handleClick}>Add New User</button>
+
+            <hr />
         </div>
     );
 };
