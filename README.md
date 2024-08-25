@@ -1,6 +1,6 @@
 ## 5 Hours Full Stack Next.js Bootcamp
 
-Learn full-stack development in 5 hours with Next.js. Master routing, Tailwind CSS, API building, Cloudinary file uploads, and deploy on Vercel. Perfect for dynamic web apps.
+Welcome to the **Full Stack Next.js Bootcamp** repository! This project is designed to provide hands-on experience in building full-stack applications using Next.js, Tailwind CSS, Prisma, and other modern technologies.
 
 The Full Stack Next.js Bootcamp covers a comprehensive range of topics to equip you with the skills needed to build and deploy full-stack web applications. It starts with an introduction and fundamentals of Next.js, including setting up the development environment, project structure, routing, and data fetching. You’ll learn styling with Tailwind CSS, advanced routing techniques, and API building. The course also includes database integration with Prisma, file uploading with Cloudinary, and culminates in creating a simple full-stack app. Finally, you’ll learn how to deploy your application on Vercel.
 
