@@ -1,0 +1,67 @@
+======================== 
+Download: 
+xampp software for database
+Postman APIs
+========================
+
+
+#### Getting Started
+
+-   Introduction
+
+#### Next.js Fundamentals
+
+-   Setting Up the Development Environment
+-   Creating Your First Next.js Project
+-   Project Structure
+-   Routing and Navigation
+-   Client and Server Components
+-   Data Fetching
+-   Caching
+-   Static and Dynamic Rendering
+
+#### Styling with Tailwind CSS
+
+-   Global Styles
+-   CSS Modules
+-   Tailwind CSS
+-   DaisyUI
+
+#### Routing and Navigation
+
+-   Routing Overview
+-   Dynamic Routes
+-   Catch-all Segments
+-   Accessing Query String Parameters
+-   Layouts
+-   Navigation
+-   Programmatic Navigation
+-   Showing Loading UIs
+-   Handling Not Found Errors
+-   Handling Unexpected Errors
+
+#### Building APIs
+
+-   Getting a Collection of Objects
+-   Getting a Single Object
+-   Creating an Object
+-   Updating an Object
+-   Deleting an Object
+-   Validating Requests with Zod
+-   Exercise- Building Products API
+
+#### Uploading Files
+
+-   Choosing a Cloud Platform
+-   Setting Up Cloudinary
+-   Uploading Files
+-   Showing Uploaded Images
+-   Customizing the Upload Widget
+
+#### Full Stack Web Application
+
+-   Create Simple Full Stack App
+
+#### Deployment
+
+-   Deploy on Vercel
